@@ -50,3 +50,5 @@ Prosta, ale profesjonalna aplikacja analityczna w Streamlit, stworzona jako proj
     python -m streamlit run app.py
     ```
 3.  Aplikacja otworzy się automatycznie w Twojej przeglądarce internetowej.
+
+   Wykonali Piotr Sienkiewicz, Tomasz Złotkowski, Kacper Kopaczewski
